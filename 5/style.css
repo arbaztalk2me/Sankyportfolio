@@ -33,12 +33,12 @@ img{
 .top-cloud{
     position:absolute;
    right: 150px;
-    top: 20px;
+    top: 21px;
     width: 230px;
 }
 .bottom-cloud{
     position: absolute;
-    left: 80px;
+    left: 81px;
     bottom: 300px;
     width: 230px;
 }
